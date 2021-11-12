@@ -17,4 +17,7 @@ Pyodbc is an open source Python module that makes accessing ODBC databases simpl
 3. to make Sure if You've Downloaded write command below
 4. pip list
 
+## Download The Script
+[Download Here]()
+
 
