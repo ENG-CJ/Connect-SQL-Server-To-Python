@@ -10,3 +10,11 @@ Pyodbc is an open source Python module that makes accessing ODBC databases simpl
 3.Install the Microsoft ODBC Driver for SQL Server on Windows.<br>
 4.Open cmd.exe as an administrator.<br>
 5.Install pyodbc using pip - Python package manager (Replace C:\Python27\Scripts with your installed Python path)
+
+## Steps To Download Pyodbc
+1. Run Command Propmt
+2. pip install pyodbc
+3. to make Sure if You've Downloaded write command below
+4. pip list
+
+
