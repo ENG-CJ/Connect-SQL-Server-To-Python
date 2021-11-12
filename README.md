@@ -18,6 +18,6 @@ Pyodbc is an open source Python module that makes accessing ODBC databases simpl
 4. pip list
 
 ## Download The Script
-[Download Here]()
+[Download Here](https://github.com/ENG-CJ/Connect-SQL-Server-To-Python/archive/refs/heads/main.zip)
 
 
